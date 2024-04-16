@@ -6,20 +6,9 @@
 Certain content is restricted and is only accessed by IPs on a allowed list. The file “allow_list.txt” holds all the IPs. There is also a remove list containing IPs that should no longer have access to restricted content. The algorithm in this project automatically removes IPs in that list that should no longer have access to the content.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
-### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Learned how to access and rewrite files in python.
+- Gain an understanding on how to automate tasks.
 
 ## Steps
 
